@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="Kennedy Muritu. If you can't take it, I Ken tech it. Full-stack builder in Nairobi.">
+  <defs>
+    <pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#E2DED3"/></pattern>
+  </defs>
+  <rect width="1280" height="320" rx="20" fill="#F7F5EF"/>
+  <rect width="1280" height="320" rx="20" fill="url(#g)"/>
+  <rect x="64" y="72" width="44" height="5" rx="2.5" fill="#B86E0B"/>
+  <text x="64" y="112" font-size="15" letter-spacing="3" fill="#5F6775" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">NAIROBI · FULL-STACK BUILDER</text>
+  <text x="62" y="178" font-size="60" font-weight="700" fill="#14181F" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" letter-spacing="-1.5">Kennedy Muritu</text>
+  <text x="64" y="226" font-size="24" fill="#B86E0B" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" font-style="italic">If you can't take it, I Ken tech it.</text>
+  <text x="64" y="262" font-size="17" fill="#5F6775" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif">Products, and the systems that get them used.</text>
+  <g transform="translate(760,118)"><rect width="180" height="36" rx="18" fill="#ECE8DD"/><text x="18" y="23.5" font-size="15" fill="#3A414C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">M-Pesa payments</text></g><g transform="translate(990,118)"><rect width="142" height="36" rx="18" fill="#ECE8DD"/><text x="18" y="23.5" font-size="15" fill="#3A414C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">AI products</text></g><g transform="translate(760,170)"><rect width="170" height="36" rx="18" fill="#ECE8DD"/><text x="18" y="23.5" font-size="15" fill="#3A414C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Climate &amp; agri</text></g><g transform="translate(990,170)"><rect width="113" height="36" rx="18" fill="#ECE8DD"/><text x="18" y="23.5" font-size="15" fill="#3A414C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Mobility</text></g><g transform="translate(760,222)"><rect width="122" height="36" rx="18" fill="#ECE8DD"/><text x="18" y="23.5" font-size="15" fill="#3A414C" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">Dev tools</text></g>
+</svg>
