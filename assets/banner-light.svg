@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-label="Kennedy Muritu. If you can't take it, I Ken tech it. Nairobi, Kenya.">
-  <defs><pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#E2DED3"/></pattern></defs>
-  <rect width="1280" height="260" rx="20" fill="#F7F5EF"/>
-  <rect width="1280" height="260" rx="20" fill="url(#g)"/>
-  <rect x="64" y="68" width="44" height="5" rx="2.5" fill="#B86E0B"/>
-  <text x="62" y="146" font-size="60" font-weight="700" fill="#14181F" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" letter-spacing="-1.5">Kennedy Muritu</text>
-  <text x="64" y="194" font-size="24" fill="#B86E0B" font-family="Inter,Segoe UI,Helvetica Neue,Arial,sans-serif" font-style="italic">If you can't take it, I Ken tech it.</text>
-  <text x="1216" y="194" font-size="15" letter-spacing="3" text-anchor="end" fill="#5F6775" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">NAIROBI, KENYA</text>
-</svg>
